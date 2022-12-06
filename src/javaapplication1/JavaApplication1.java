@@ -17,7 +17,7 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         
         // TODO code application logic here
-        System.out.println("Hola Mundo hoy es martes");
+        System.out.println("Hola Mundo hoy es martes 6/12");
     }
     
 }
